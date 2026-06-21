@@ -1,0 +1,26 @@
+[
+    {
+        "image": "./images/1.bone",
+        "name": "bone"
+    },
+    {
+        "image": "./images/2.crab",
+        "name": "crab"
+    },
+    {
+        "image": "./images/3.elephant",
+        "name": "elephant"
+    },
+    {
+        "image": "./images/4.fox",
+        "name": "fox"
+    },
+    {
+        "image": "./images/5.kiwi",
+        "name": "kiwi"
+    },
+    {
+        "image": "./images/6.sheep",
+        "name": "sheep"
+    }
+]
